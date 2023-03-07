@@ -60,7 +60,7 @@
           			<schemaVersion>v2</schemaVersion>
           			<subscriptionId>100c03ab-a4f4-44d3-8e90-f9415920e2a1</subscriptionId>
           			<resourceGroup>spring3</resourceGroup>
-          			<appName>spring3-java17</appName>
+          			<appName>java17v1</appName>
           			<pricingTier>F1</pricingTier>
          			<region>koreacentral</region>
           			<runtime>
